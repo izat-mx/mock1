@@ -1,6 +1,5 @@
 MOCKUP HERE
 
-<!DOCTYPE html>
 <html lang="en">
 <body class="bg-gradient-to-br from-blue-50 to-indigo-50 text-gray-800 min-h-screen">
   <div class="max-w-3xl mx-auto mt-12 p-8 bg-white rounded-xl shadow-md mb-12">
