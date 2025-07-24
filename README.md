@@ -6,11 +6,6 @@ MOCKUP HERE
   <div class="max-w-3xl mx-auto mt-12 p-8 bg-white rounded-xl shadow-md mb-12">
     <h1 class="text-3xl font-bold mb-2">Add New BAU</h1>
     <p class="text-sm text-gray-500 mb-8">Create a new Business As Usual Task</p>
-</head>
-<body class="bg-gradient-to-br from-blue-50 to-indigo-50 text-gray-800 min-h-screen">
-  <div class="max-w-3xl mx-auto mt-12 p-8 bg-white rounded-xl shadow-md mb-12">
-    <h1 class="text-3xl font-bold mb-2">Add New BAU</h1>
-    <p class="text-sm text-gray-500 mb-8">Create a new Business As Usual Task</p>
 
     <!-- Stepper -->
     <div class="flex items-center justify-between mb-10">
